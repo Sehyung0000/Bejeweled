@@ -1,0 +1,14 @@
+/Users/evanjung/Projects/CSC350H/BeJeweled/bin/Debug/net10.0/BeJeweled
+/Users/evanjung/Projects/CSC350H/BeJeweled/bin/Debug/net10.0/BeJeweled.deps.json
+/Users/evanjung/Projects/CSC350H/BeJeweled/bin/Debug/net10.0/BeJeweled.runtimeconfig.json
+/Users/evanjung/Projects/CSC350H/BeJeweled/bin/Debug/net10.0/BeJeweled.dll
+/Users/evanjung/Projects/CSC350H/BeJeweled/bin/Debug/net10.0/BeJeweled.pdb
+/Users/evanjung/Projects/CSC350H/BeJeweled/obj/Debug/net10.0/BeJeweled.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evanjung/Projects/CSC350H/BeJeweled/obj/Debug/net10.0/BeJeweled.AssemblyInfoInputs.cache
+/Users/evanjung/Projects/CSC350H/BeJeweled/obj/Debug/net10.0/BeJeweled.AssemblyInfo.cs
+/Users/evanjung/Projects/CSC350H/BeJeweled/obj/Debug/net10.0/BeJeweled.csproj.CoreCompileInputs.cache
+/Users/evanjung/Projects/CSC350H/BeJeweled/obj/Debug/net10.0/BeJeweled.dll
+/Users/evanjung/Projects/CSC350H/BeJeweled/obj/Debug/net10.0/refint/BeJeweled.dll
+/Users/evanjung/Projects/CSC350H/BeJeweled/obj/Debug/net10.0/BeJeweled.pdb
+/Users/evanjung/Projects/CSC350H/BeJeweled/obj/Debug/net10.0/BeJeweled.genruntimeconfig.cache
+/Users/evanjung/Projects/CSC350H/BeJeweled/obj/Debug/net10.0/ref/BeJeweled.dll
