@@ -1,7 +1,7 @@
 # BeJeweled Homework 5
 
 - Gems now render as color emoji in console output:
-  `RED -> 🔴`, `BLUE -> 🔵`, `GREEN -> 🟢`
+  `RED -> 🔴`, `BLUE -> 🔵`, `GREEN -> 🟢`<br>
   `YELLOW -> 🟡`, `PURPLE -> 🟣`, `ORANGE -> 🟠`
 - Added two required constructors:
   - `Gem(GemType type)`
