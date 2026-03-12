@@ -54,8 +54,8 @@ public class GemBoard
                 int start = c;
 
                 while (c + 1 < size &&
-                       !grid.isEmpty(r, c + 1) &&
-                       grid.get(r, c + 1).getType() == currentType)
+                    !grid.isEmpty(r, c + 1) &&
+                    grid.get(r, c + 1).getType() == currentType)
                 {
                     c++;
                 }
@@ -94,8 +94,8 @@ public class GemBoard
                 int start = r;
 
                 while (r + 1 < size &&
-                       !grid.isEmpty(r + 1, c) &&
-                       grid.get(r + 1, c).getType() == currentType)
+                    !grid.isEmpty(r + 1, c) &&
+                    grid.get(r + 1, c).getType() == currentType)
                 {
                     r++;
                 }

@@ -12,3 +12,4 @@
 /Users/evanjung/Projects/CSC350H/BeJeweled/obj/Debug/net10.0/BeJeweled.pdb
 /Users/evanjung/Projects/CSC350H/BeJeweled/obj/Debug/net10.0/BeJeweled.genruntimeconfig.cache
 /Users/evanjung/Projects/CSC350H/BeJeweled/obj/Debug/net10.0/ref/BeJeweled.dll
+/Users/evanjung/Projects/CSC350H/BeJeweled/obj/Debug/net10.0/BeJeweled.sourcelink.json
