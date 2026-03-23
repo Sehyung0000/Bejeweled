@@ -13,10 +13,27 @@
 - Clearing uses a `bool[,]` marker grid so overlapping matches are only removed once.
 - Gravity is handled column by column by moving non-empty gems downward.
 - Refill places random new gems into empty cells after gravity.
-- Full cascade looping is not implemented yet; the current code provides the board operations needed for it.
 
 ## Demo Images
 
 ![Demo Image 1](<demo_image/Screenshot 2026-03-12 at 5.28.01 PM.png>)
 
 ![Demo Image 2](<demo_image/Screenshot 2026-03-12 at 5.28.15 PM.png>)
+
+## Implementation Status
+
+### Completed C# Files
+
+- `GameController.cs`
+- `GameState.cs`
+- `GemBoard.cs`
+- `GemGrid.cs`
+- `Gem.cs`
+- `GemType.cs`
+- `Position.cs`
+- `ScoreKeeper.cs`
+- `Program.cs`
+
+### Not Yet Completed C# Files
+
+- `MoveValidator.cs`
